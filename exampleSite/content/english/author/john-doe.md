@@ -3,10 +3,9 @@ title: Vikas Pericherla
 image: ''
 email: vikaspericherla@gmail.com
 social:
-- icon: ti-facebook
-  link: "#"
+- {}
 - icon: ti-twitter-alt
-  link: "#"
+  link: "#https://www.linkedin.com/in/vikas-pericherla/"
 - icon: ti-github
   link: "#https://github.com/vikaspython"
 
