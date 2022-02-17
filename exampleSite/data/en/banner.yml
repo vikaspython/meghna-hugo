@@ -8,5 +8,5 @@ banner:
   content: Decision Science Manager
   button:
     enable: true
-    label: Explore Us
+    label: My Works
     link: "#services"
