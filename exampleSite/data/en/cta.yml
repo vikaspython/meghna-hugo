@@ -3,7 +3,7 @@ cta:
   enable: true
   bg_image: images/backgrounds/bg-white-wall.jpg
   bg_image_webp: images/backgrounds/bg-white-wall.webp
-  title: Know More about me
+  title: Want to Know More about me
   content: 'Lets connect on a more personal level '
   button:
     enable: true
