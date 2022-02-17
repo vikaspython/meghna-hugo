@@ -9,5 +9,7 @@ skill:
 
   image: images/about/company-growth.webp
   skill_item:
+  - name: R
+    percent: "90"
   - name: Decision sciences
     percent: "100"
