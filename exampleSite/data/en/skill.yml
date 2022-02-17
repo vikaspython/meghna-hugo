@@ -1,15 +1,23 @@
 ---
 skill:
   enable: true
-  title: Our Skills
-  subtitle: I'm Skilled in data science and Decision Science
+  title: My Skills
+  subtitle: I'm Skilled in Data science and Decision Science
   content: |+
     Python, R, SAS -Programming languages
     PowerBI, Tableau - Dashboarding
 
   image: images/about/company-growth.webp
   skill_item:
+  - name: SQL
+    percent: "50"
+  - name: SAS
+    percent: "50"
+  - name: Tableau
+    percent: "60"
+  - name: PowerBI
+    percent: "60"
+  - name: Python
+    percent: "70"
   - name: R
     percent: "90"
-  - name: Decision sciences
-    percent: "100"
