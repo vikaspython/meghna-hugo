@@ -3,7 +3,7 @@ contact:
   enable: true
   title: Contact Me
   subtitle: Contact Details
-  content: Order of priority - whatsapp, email, call
+  content: You can whatsapp, email or call me
   contact_list:
   - icon: Mobile
     info: 'Phone: 8106361620'
