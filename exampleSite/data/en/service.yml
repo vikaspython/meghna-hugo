@@ -7,7 +7,7 @@ service:
     icon: ti-world
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
       facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-  - name: Responsive Design
+  - name: Data Analytics
     icon: ti-layout
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
       facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
